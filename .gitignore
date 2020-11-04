@@ -1,0 +1,5 @@
+# ignore all csv files in the repo
+
+*.csv
+*.log
+*.pyc
